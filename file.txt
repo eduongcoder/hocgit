@@ -10,3 +10,7 @@ C
 E
 
 sua file
+
+G
+
+
